@@ -2,7 +2,7 @@
 GET http://localhost:5188/
 
 ### Listar produto
-GET http://localhost:5188/localhost:5188/api/produto/listar
+GET http://localhost:5188/api/produto/listar
 
 ### Cadastrar um produto
 POST http://localhost:5188/api/produto/cadastrar
