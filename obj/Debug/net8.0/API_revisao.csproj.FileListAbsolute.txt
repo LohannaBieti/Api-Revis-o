@@ -126,3 +126,4 @@ C:\Minha Pasta\Noite\API_revisao\bin\Debug\net8.0\runtimes\win-x64\native\e_sqli
 C:\Minha Pasta\Noite\API_revisao\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Minha Pasta\Noite\API_revisao\obj\Debug\net8.0\API_revisao.csproj.AssemblyReference.cache
 C:\Minha Pasta\Noite\API_revisao\obj\Debug\net8.0\API_revi.2DE4579B.Up2Date
+C:\Minha Pasta\Noite\API_revisao\obj\Debug\net8.0\API_revisao.sourcelink.json
