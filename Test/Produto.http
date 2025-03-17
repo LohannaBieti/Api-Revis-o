@@ -9,6 +9,6 @@ POST http://localhost:5188/api/produto/cadastrar
 Content-Type: application/json
 
 {
-    "Nome" : "Notebook",
+    "Nome" : "Teste do dia 17",
     "Quantidade" : 150
 }
