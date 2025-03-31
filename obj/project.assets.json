@@ -2386,11 +2386,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Meu programa\\Api-Revis-o\\API_revisao.csproj",
+      "projectUniqueName": "c:\\REVISÃO\\Api-Revis-o\\API_revisao.csproj",
       "projectName": "API_revisao",
-      "projectPath": "C:\\Meu programa\\Api-Revis-o\\API_revisao.csproj",
+      "projectPath": "c:\\REVISÃO\\Api-Revis-o\\API_revisao.csproj",
       "packagesPath": "C:\\Users\\LOHANNABIETIVIEIRA\\.nuget\\packages\\",
-      "outputPath": "C:\\Meu programa\\Api-Revis-o\\obj\\",
+      "outputPath": "c:\\REVISÃO\\Api-Revis-o\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LOHANNABIETIVIEIRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
